@@ -1,0 +1,8 @@
+{
+  "name": "SoundPatty:)",
+  "description": "Aplicación educativa de fonoaudiología y estimulación cognitiva infantil para el reconocimiento de patrones auditivos en una divertida aventura espacial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
